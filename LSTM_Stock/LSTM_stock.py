@@ -7,6 +7,8 @@ Created on Tue Nov 28 16:22:15 2023
 
 #采用LSTM对TATAGLOBAL的股票价格（开盘价）进行预测
 
+#Tensorflow1.13.1 and Keras2.2.4
+
 import tensorflow as tf
 import numpy as np
 import pandas as pd
